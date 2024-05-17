@@ -22,3 +22,5 @@ Aqui estão algumas das tecnologias e ferramentas com as quais estou mais famili
 
 [![Tulio GitHub stats](https://github-readme-stats.vercel.app/api?username=tulioanesio)](https://github.com/tulioanesio/github-readme-stats)
 
+![snake gif](https://github.com/tulioanesio/tulioanesio/blob/output/github-contribution-grid-snake.svg)
+
