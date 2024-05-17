@@ -20,5 +20,5 @@ Aqui estão algumas das tecnologias e ferramentas com as quais estou mais famili
   - IntelliJ IDEA
   - Git
 
-[![Tulio GitHub stats](https://github-readme-stats.vercel.app/api?username=tulioanesio)](https://github.com/tulioanesio/github-readme-stats)
+![Tulio GitHub stats](https://github-readme-stats.vercel.app/api?username=tulioanesio&theme=dark&show_icons=true)
 
