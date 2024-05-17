@@ -1,17 +1,24 @@
-### Hi there 👋
+# Opa! Meu nome é Tulio ☀️
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tulioanesio)](https://github.com/tulioanesio/github-readme-stats)
-<!--
-**tulioanesio/tulioanesio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou um programador iniciante apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou cursando Ciência da Computação e venho me dedicando ao aprendizado de Java nos últimos meses. Este espaço é onde compartilho meus projetos e avanços na minha jornada de programação.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante de Ciência da Computação
+- 🖥️ Programador iniciante com foco em Java
+- 📚 Sempre em busca de aprender novas tecnologias e melhorar minhas habilidades de programação
+
+## Tecnologias e Ferramentas
+
+Aqui estão algumas das tecnologias e ferramentas com as quais estou mais familiarizado:
+
+- **Linguagens de Programação:**
+  - Java
+
+- **Ferramentas de Desenvolvimento:**
+  - NetBeans
+  - IntelliJ IDEA
+  - Git
+
+[![Tulio GitHub stats](https://github-readme-stats.vercel.app/api?username=tulioanesio)](https://github.com/tulioanesio/github-readme-stats)
+
