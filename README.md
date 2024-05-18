@@ -12,13 +12,13 @@ Eu sou um programador iniciante apaixonado por tecnologia e desenvolvimento de s
 
 Aqui estão algumas das tecnologias e ferramentas com as quais estou mais familiarizado:
 
-- **Linguagens de Programação:**
-  - Java
-
 - **Ferramentas de Desenvolvimento:**
   - NetBeans
   - IntelliJ IDEA
   - Git
+  - GitHub
+  - Java
+  - MySQL
 
 ![Tulio GitHub stats](https://github-readme-stats.vercel.app/api?username=tulioanesio&theme=dark&show_icons=true)
 
