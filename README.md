@@ -13,7 +13,6 @@ Eu sou um programador iniciante apaixonado por tecnologia e desenvolvimento de s
 Aqui estão algumas das tecnologias e ferramentas com as quais estou mais familiarizado:
 
   - NetBeans
-  - IntelliJ IDEA
   - Git
   - GitHub
   - Java
