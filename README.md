@@ -16,6 +16,9 @@ Aqui estão algumas das tecnologias e ferramentas com as quais estou mais famili
   - Git
   - GitHub
   - Java
+  - HTML
+  - CSS
+  - JavaScript
   - MySQL
 
 ![Tulio GitHub stats](https://github-readme-stats.vercel.app/api?username=tulioanesio&theme=dark&show_icons=true)
