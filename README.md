@@ -1,6 +1,6 @@
 # Whats up! My name is Tulio 👋
 
-I'm a beginner programmer with a passion for technology and web development. I'm currently studying Computer Science and have been dedicating myself to learning JavaScript for the past few months. This space is where I share my projects and progress on my programming journey.
+I'm a beginner programmer with a passion for technology and web development. I'm pursuing a degree in Computer Science and have been dedicating myself to learning JavaScript for the past few months. This space is where I share my projects and progress on my programming journey.
 
 <h2 align="left">Contact me</h2>
 
@@ -10,7 +10,7 @@ I'm a beginner programmer with a passion for technology and web development. I'm
   <a href="https://www.linkedin.com/in/tulioanesio/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="tulioluv@gmail.com" target="_blank">
+  <a href="mailto:tulioluv@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/tulio.anesio/" target="_blank">
