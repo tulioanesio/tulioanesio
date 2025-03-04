@@ -1,13 +1,22 @@
-# Opa! Meu nome é Tulio ☀️
+# Whats up! My name is Tulio 👋
 
-Eu sou um programador iniciante apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou cursando Ciência da Computação e venho me dedicando ao aprendizado de Java nos últimos meses. Este espaço é onde compartilho meus projetos e avanços na minha jornada de programação.
+I'm a beginner programmer with a passion for technology and web development. I'm currently studying Computer Science and have been dedicating myself to learning JavaScript for the past few months. This space is where I share my projects and progress on my programming journey.
 
-## Sobre Mim
+<h2 align="left">Contact me</h2>
 
-- 🎓 Estudante de Ciência da Computação
-- 🖥️ Programador iniciante com foco em Java
-- 📚 Sempre em busca de aprender novas tecnologias e melhorar minhas habilidades de programação
+###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/tulioanesio/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="tulioluv@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/tulio.anesio/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
 ###
 
