@@ -1,6 +1,6 @@
 # Whats up! My name is Tulio 👋
 
-I'm a beginner programmer with a passion for technology and web development. I'm pursuing a degree in Computer Science and have been dedicating myself to learning JavaScript for the past few months. This space is where I share my projects and progress on my programming journey.
+I'm a brazillian beginner programmer with a passion for technology and web development. I'm pursuing a degree in Computer Science and have been dedicating myself to learning JavaScript for the past few months. This space is where I share my projects and progress on my programming journey.
 
 <h2 align="left">Contact me</h2>
 
