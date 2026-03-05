@@ -8,7 +8,7 @@ I'm a Brazilian full stack developer with a strong focus on back-end development
 
 ## I code with
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,electron,tailwind,materialui,nodejs,express,nestjs,jest,java,spring,hibernate,prisma,mongodb,dynamodb,mysql,postgresql,docker,postman,git,github,aws,vscode,idea,linux)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,electron,tailwind,materialui,nodejs,express,nestjs,jest,java,spring,hibernate,prisma,mongodb,dynamodb,mysql,postgresql,docker,redis,postman,git,github,aws,vscode,idea,linux)
 
 ## Contact me
 
